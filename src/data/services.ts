@@ -70,7 +70,7 @@ const services: Service[] = [
     description:
       "Full battery health diagnostics and emergency jumpstart service to get your car running again in minutes.",
     intro:
-      "A Car Jumpstart Service is one of the fastest roadside helping services that can start your vehicle in case it dies. It charges the engine with external energy and helps you get back on the road without having to change the battery. It is necessary when your auto does not start because of a damaged or low battery.\n\nBattery Store will assist in car jumpstarting services across all locations in Dubai quickly and safely. All it takes is one call to have your car back to life and yourself back on the road. You can safely rely on us.",
+      "A Car Jumpstart Service is one of the fastest roadside helping services that can start your vehicle in case it dies. It charges the engine with external energy and helps you get back on the road without having to change the battery. It is necessary when your auto does not start because of a damaged or low battery.\n\nBattery Near Me will assist in car jumpstarting services across all locations in Dubai quickly and safely. All it takes is one call to have your car back to life and yourself back on the road. You can safely rely on us.",
     whyEssential: {
       title: "Why Is a Car Jumpstart Essential?",
       intro:
@@ -102,7 +102,7 @@ const services: Service[] = [
     },
     beyondJumpstart: {
       title: "Beyond Jumpstarts – Complete Battery Support",
-      intro: "A jumpstart might not be enough if your battery is damaged or your alternator isn't charging properly. That's why Battery Store offers more than just jumpstarting:",
+      intro: "A jumpstart might not be enough if your battery is damaged or your alternator isn't charging properly. That's why Battery Near Me offers more than just jumpstarting:",
       services: [
         "Car Battery Replacement – On-site installation with premium brands.",
         "Car Alternator Repair – Faulty alternators are common culprits for dead batteries.",
@@ -113,8 +113,8 @@ const services: Service[] = [
       closing: "We're not just a jumpstart service — we're your complete vehicle rescue partner in Dubai.",
     },
     whyPartner: {
-      title: "Why Battery Store Dubai is Your Go-To Jumpstart Partner",
-      intro: "In a city like Dubai, every minute counts. Whether you're heading to a meeting, airport, or just out for errands, a dead battery can disrupt your day.\n\nWith Battery Store, you're guaranteed:",
+      title: "Why Battery Near Me Dubai is Your Go-To Jumpstart Partner",
+      intro: "In a city like Dubai, every minute counts. Whether you're heading to a meeting, airport, or just out for errands, a dead battery can disrupt your day.\n\nWith Battery Near Me, you're guaranteed:",
       points: [
         "24/7 Emergency Service",
         "Trained, friendly technicians",
@@ -159,9 +159,9 @@ const services: Service[] = [
       { item: "Night / weekend / holiday call-out", price: "AED 200+" },
       { item: "Alternator check or electrical diagnosis add-on", price: "Added to the line price" },
     ],
-    whyChooseUsTitle: "Why Choose Battery Store's Car Jumpstart Service?",
+    whyChooseUsTitle: "Why Choose Battery Near Me's Car Jumpstart Service?",
     whyChooseUsIntro:
-      "There are plenty of car service providers in Dubai — but Battery Store stands out because we specialize in immediate roadside support, especially jumpstarts.",
+      "There are plenty of car service providers in Dubai — but Battery Near Me stands out because we specialize in immediate roadside support, especially jumpstarts.",
     whyChooseUs: [
       "24/7 Availability – Anytime, any day, including weekends and holidays.",
       "30-Minute Response – We reach you fast and get you moving even faster.",
@@ -232,7 +232,7 @@ const services: Service[] = [
     description:
       "On-site tyre replacement with a wide range of tyre brands and sizes, fitted at your location.",
     intro:
-      "Flat tyre change in Dubai, starting from AED 99, in just 30 minutes. We fit a new tyre or your spare at your location — home, work, or the roadside — no towing needed.\n\nOur mobile tyre fitment vans carry a wide range of brands and sizes, so whether you need a single tyre swapped or a full set replaced, Battery Store handles it on-site, 24/7.",
+      "Flat tyre change in Dubai, starting from AED 99, in just 30 minutes. We fit a new tyre or your spare at your location — home, work, or the roadside — no towing needed.\n\nOur mobile tyre fitment vans carry a wide range of brands and sizes, so whether you need a single tyre swapped or a full set replaced, Battery Near Me handles it on-site, 24/7.",
     introSection: {
       title: "Mobile Tyre Replacement, Wherever You Are",
       paragraph:
@@ -280,7 +280,7 @@ const services: Service[] = [
         "Service backed by warranty on fitment and workmanship",
       ],
     },
-    whyChooseUsTitle: "Why Choose Battery Store?",
+    whyChooseUsTitle: "Why Choose Battery Near Me?",
     whyChooseUsIntro: "Here's why drivers across Dubai trust us for tyre replacement:",
     whyChooseUs: [
       "24/7 availability — flat tyre at 2 AM? We're ready",
@@ -306,7 +306,7 @@ const services: Service[] = [
       "Citywide coverage across Dubai",
     ],
     steps: [
-      "Call Battery Store or book online",
+      "Call Battery Near Me or book online",
       "Technician arrives within 30-45 minutes",
       "Tyre changed — drive away safely",
     ],
@@ -331,7 +331,7 @@ const services: Service[] = [
     introSection: {
       title: "Mobile Tyre Repair, Wherever You Are",
       paragraph:
-        "A nail, screw, or sharp debris can puncture a tyre anywhere — at home, at work, or mid-drive. Battery Store's mobile repair vans reach you in 30-45 minutes anywhere in Dubai, inspect the damage, and patch or plug the puncture so you're back on the road without needing a tow.",
+        "A nail, screw, or sharp debris can puncture a tyre anywhere — at home, at work, or mid-drive. Battery Near Me's mobile repair vans reach you in 30-45 minutes anywhere in Dubai, inspect the damage, and patch or plug the puncture so you're back on the road without needing a tow.",
     },
     serviceHighlights: {
       title: "Our Complete Roadside & Car Service in Dubai",
@@ -375,7 +375,7 @@ const services: Service[] = [
         "Service backed by warranty on labour and parts",
       ],
     },
-    whyChooseUsTitle: "Why Choose Battery Store?",
+    whyChooseUsTitle: "Why Choose Battery Near Me?",
     whyChooseUsIntro: "Here's why Dubai drivers trust us for tyre repair:",
     whyChooseUs: [
       "24/7 availability, including weekends and holidays",
@@ -424,7 +424,7 @@ const services: Service[] = [
     description:
       "Quick flat tyre replacement service that gets you back on the road safely with minimal downtime.",
     intro:
-      "Flat Tyre Change Service is an emergency roadside assistance service that assists in fitting a new tyre or patching a punctured tyre to your vehicle on the spot - at your home or work, or on the road. It provides quick, convenient, and professional assistance without periodically bringing your vehicle to the workshop on a tow truck.\n\nThe issue of a flat tyre can be devastating at the most inconvenient time, when you are going to work, regular family outing, or in the middle of a busy road. We realize how stressful and hazardous this situation may be at Battery Store Dubai. This is what drives us to provide a quick tyre replacement service throughout Dubai, so that you can feel safe and go on the road immediately.\n\nWhether tyre change in Dubai, flat tyre service, or professional mobile tyre fitting anywhere, any time, we still find the time and place to help you.",
+      "Flat Tyre Change Service is an emergency roadside assistance service that assists in fitting a new tyre or patching a punctured tyre to your vehicle on the spot - at your home or work, or on the road. It provides quick, convenient, and professional assistance without periodically bringing your vehicle to the workshop on a tow truck.\n\nThe issue of a flat tyre can be devastating at the most inconvenient time, when you are going to work, regular family outing, or in the middle of a busy road. We realize how stressful and hazardous this situation may be at Battery Near Me Dubai. This is what drives us to provide a quick tyre replacement service throughout Dubai, so that you can feel safe and go on the road immediately.\n\nWhether tyre change in Dubai, flat tyre service, or professional mobile tyre fitting anywhere, any time, we still find the time and place to help you.",
     introSection: {
       title: "What Is Our Flat Tyre Change Service?",
       paragraph:
@@ -436,8 +436,8 @@ const services: Service[] = [
       causes: ["Tyre mounting and balancing machines", "Air compressors", "Torque wrenches", "Spare tyres and branded replacements", "Puncture repair kits", "Tyre inflators"],
       closing: "This mobile setup allows us to handle most tyre issues on-site—be it at home, office, roadside, parking garage, or desert track.",
     },
-    whyChooseUsTitle: "Why Choose Battery Store's Tyre Change Service?",
-    whyChooseUsIntro: "When it comes to mobile tyre services, not all companies are created equal. Here's why Battery Store stands out as your trusted tyre change partner in Dubai:",
+    whyChooseUsTitle: "Why Choose Battery Near Me's Tyre Change Service?",
+    whyChooseUsIntro: "When it comes to mobile tyre services, not all companies are created equal. Here's why Battery Near Me stands out as your trusted tyre change partner in Dubai:",
     whyChooseUs: [
       "24/7 Availability – Flat tyre at 2 AM? We're ready.",
       "Mobile Tyre Fitment Vans – We come equipped to handle all types of tyre changes on the spot.",
@@ -448,7 +448,7 @@ const services: Service[] = [
     ],
     getStarted: {
       title: "How Our Tyre Change Service in Dubai Works",
-      intro: "Here's how simple it is to get your tyre changed with Battery Store:",
+      intro: "Here's how simple it is to get your tyre changed with Battery Near Me:",
       steps: [
         { title: "Call or Book Online", text: "Reach out to us with your location and vehicle details." },
         { title: "We Dispatch Immediately", text: "Our mobile tyre van will arrive within 30-45 minutes." },
@@ -471,11 +471,11 @@ const services: Service[] = [
       title: "Why Flat Tyre Service Matters in Dubai",
       intro: "Driving with a flat or underinflated tyre is risky and can damage your wheel or suspension. Quick tyre change ensures:",
       list: ["Safety for you and others", "Better fuel efficiency", "Extended tyre lifespan", "Smooth ride comfort", "Peace of mind"],
-      safetyNote: "In a Hurry to have Flat Tyre Services in Dubai? A flat tyre should not be a hitch. Depending on where you are, such as at home, on the highway, or even in the parking lot, Battery Store Dubai can conveniently bring the service of a seasoned tyre changer to meet you wherever you are. Call us now or fill out our quick service form to get help within minutes.",
+      safetyNote: "In a Hurry to have Flat Tyre Services in Dubai? A flat tyre should not be a hitch. Depending on where you are, such as at home, on the highway, or even in the parking lot, Battery Near Me Dubai can conveniently bring the service of a seasoned tyre changer to meet you wherever you are. Call us now or fill out our quick service form to get help within minutes.",
     },
     beyondJumpstart: {
       title: "Roadside Assistance For Flat Tyres – Always Ready",
-      intro: "At Battery Store, we don't just change tyres—we offer full roadside assistance in Dubai. No need to wait hours or get stuck in the heat—our team responds fast and gets the job done right.",
+      intro: "At Battery Near Me, we don't just change tyres—we offer full roadside assistance in Dubai. No need to wait hours or get stuck in the heat—our team responds fast and gets the job done right.",
       services: ["Flat Tyre Replacement", "Puncture Repair", "Jumpstart Services", "Battery Replacement", "Towing Services", "Fuel Delivery"],
     },
     features: [
@@ -487,7 +487,7 @@ const services: Service[] = [
       "Citywide coverage, 24/7",
     ],
     steps: [
-      "Call Battery Store or book online",
+      "Call Battery Near Me or book online",
       "Technician arrives within 30-45 minutes",
       "Tyre changed — drive away safely",
     ],
@@ -502,7 +502,7 @@ const services: Service[] = [
     ],
     pricingNote: "On average, tyre change services start from AED 99, and can go higher depending on tyre replacement requirements.",
     faqs: [
-      { q: "What can I do when I have a flat tyre in Dubai?", a: "Call or book Battery Store online and our mobile team will reach your location to fit a new tyre or your spare on the spot." },
+      { q: "What can I do when I have a flat tyre in Dubai?", a: "Call or book Battery Near Me online and our mobile team will reach your location to fit a new tyre or your spare on the spot." },
       { q: "What is the response time of your mobile team?", a: "Typically 30-45 minutes anywhere in Dubai, 24/7." },
       { q: "Do you offer tyre changing services at night or on weekends?", a: "Yes, we're available 24/7 including nights, weekends, and public holidays." },
       { q: "Do you repair any kind of tyres and vehicles?", a: "We handle sedans, SUVs, 4x4s, and commercial vehicles, with both standard and run-flat tyres." },
@@ -516,15 +516,15 @@ const services: Service[] = [
   {
     slug: "flat-tyre-repair",
     heroImage: "/images/about/flat-tyre-rep-1.png",
-    title: "Flat Tyre Repair Dubai – Battery Store Comes to You 24/7",
+    title: "Flat Tyre Repair Dubai – Battery Near Me Comes to You 24/7",
     description:
       "On-the-spot flat tyre patching and repair so you can avoid a costly replacement when possible.",
     intro:
-      "Flat tyre repair in Dubai — we come to you, 24/7. Expert technicians arrive quickly to fix tyres on-site so you can resume your journey without delays or towing.\n\nWith over 10 years of experience, Battery Store repairs punctures, patches damaged tyres, and gets you safely back on the road wherever you are in Dubai.",
+      "Flat tyre repair in Dubai — we come to you, 24/7. Expert technicians arrive quickly to fix tyres on-site so you can resume your journey without delays or towing.\n\nWith over 10 years of experience, Battery Near Me repairs punctures, patches damaged tyres, and gets you safely back on the road wherever you are in Dubai.",
     introSection: {
       title: "24/7 Tyre Repair Service in Dubai",
       paragraph:
-        "A flat tyre rarely happens at a convenient time. Battery Store's mobile tyre repair vans reach you at home, work, or the roadside — inspecting the damage, patching or plugging the puncture, and checking pressure and balance before you drive off, day or night.",
+        "A flat tyre rarely happens at a convenient time. Battery Near Me's mobile tyre repair vans reach you at home, work, or the roadside — inspecting the damage, patching or plugging the puncture, and checking pressure and balance before you drive off, day or night.",
     },
     serviceHighlights: {
       title: "Our Complete Roadside & Car Service in Dubai",
@@ -568,8 +568,8 @@ const services: Service[] = [
         "Service backed by warranty on labour and parts",
       ],
     },
-    whyChooseUsTitle: "Why Choose Battery Store?",
-    whyChooseUsIntro: "Thousands of Dubai drivers trust Battery Store for fast, reliable tyre repair:",
+    whyChooseUsTitle: "Why Choose Battery Near Me?",
+    whyChooseUsIntro: "Thousands of Dubai drivers trust Battery Near Me for fast, reliable tyre repair:",
     whyChooseUs: [
       "24/7 availability, year-round including holidays",
       "Quick response — mobile repair vans typically arrive within 30 minutes",
@@ -613,18 +613,18 @@ const services: Service[] = [
   {
     slug: "roadside-assistance",
     heroImage: "/images/about/road-side-assist.png",
-    title: "Stuck on the Road? Call Battery Store for 24/7 Roadside Help in Dubai",
+    title: "Stuck on the Road? Call Battery Near Me for 24/7 Roadside Help in Dubai",
     description:
       "24/7 roadside assistance covering breakdowns, lockouts, and minor repairs wherever you are.",
     intro:
-      "Roadside emergencies are stressful; no one wants a flat tire, a dead battery, or to run out of fuel. This is where Battery Store Dubai roadside rescue saves your day. You can reach us 24/7, and we are fully equipped and one call away from getting you back on the road safe and fast.\n\nAll our technicians are trained to deal with car breakdowns, jumpstarts, flat tire changes, fuel delivery, and others with an excellent response time and reasonable prices.",
+      "Roadside emergencies are stressful; no one wants a flat tire, a dead battery, or to run out of fuel. This is where Battery Near Me Dubai roadside rescue saves your day. You can reach us 24/7, and we are fully equipped and one call away from getting you back on the road safe and fast.\n\nAll our technicians are trained to deal with car breakdowns, jumpstarts, flat tire changes, fuel delivery, and others with an excellent response time and reasonable prices.",
     introSection: {
       title: "Who Are We?",
       paragraph:
-        "Battery Store is a reliable company to replace a car battery and provide roadside assistance in Dubai. Built on over a decade of experience, we have assisted thousands of drivers who have been stranded on the road and put them back on route safely.\n\nWe provide top-notch services with unrivaled reliability in the areas of Dubai and beyond. We begin to assist when your car comes to a standstill.",
+        "Battery Near Me is a reliable company to replace a car battery and provide roadside assistance in Dubai. Built on over a decade of experience, we have assisted thousands of drivers who have been stranded on the road and put them back on route safely.\n\nWe provide top-notch services with unrivaled reliability in the areas of Dubai and beyond. We begin to assist when your car comes to a standstill.",
     },
-    whyChooseUsTitle: "Why Choose Battery Store Roadside Assistance?",
-    whyChooseUsIntro: "We're not just another car support company. Battery Store stands out because we put drivers first.",
+    whyChooseUsTitle: "Why Choose Battery Near Me Roadside Assistance?",
+    whyChooseUsIntro: "We're not just another car support company. Battery Near Me stands out because we put drivers first.",
     whyChooseUs: [
       "Quick Response Time – Our arrival is within 30 minutes or less, long wait and delays.",
       "Low, Transparent Pricing – No need to worry about the hidden charges. All services have upfront pricing.",
@@ -644,7 +644,7 @@ const services: Service[] = [
     },
     vehicleTypes: {
       title: "Comprehensive Roadside Services — All in One Place",
-      intro: "Battery Store isn't limited to just one type of help. We deliver a complete roadside solution, including:",
+      intro: "Battery Near Me isn't limited to just one type of help. We deliver a complete roadside solution, including:",
       list: [
         "Jumpstart Service – Battery dead? Get a quick boost at your spot.",
         "Car Battery Replacement – Get a new premium battery installed instantly.",
@@ -661,7 +661,7 @@ const services: Service[] = [
     },
     whoNeedsIt: {
       title: "Why Roadside Assistance Is Essential In Dubai",
-      intro: "Dubai roads can be unpredictable. Extreme heat, traffic delays, or even simple wear and tear can cause unexpected issues. Here's why having a roadside service provider like Battery Store matters:",
+      intro: "Dubai roads can be unpredictable. Extreme heat, traffic delays, or even simple wear and tear can cause unexpected issues. Here's why having a roadside service provider like Battery Near Me matters:",
       list: ["Long drives or road trips", "Heat-related car breakdowns", "Running out of fuel in remote areas", "Unexpected tire bursts"],
     },
     getStarted: {
@@ -679,13 +679,13 @@ const services: Service[] = [
       services: ["Diagnose the problem on arrival", "Repair, replace, or assist as needed", "Ensure your car is ready to drive", "Or tow it to a garage if necessary"],
     },
     whyPartner: {
-      title: "Don't Wait on the Road — Call Battery Store Now",
+      title: "Don't Wait on the Road — Call Battery Near Me Now",
       intro: "We're always ready to help—anytime, anywhere in Dubai.",
       points: ["Call us now for instant roadside help", "Or book a service online in seconds", "We'll reach you in 30 minutes or less"],
     },
     testimonials: [
-      { name: "Ahmad", area: "Downtown", quote: "Battery Store helped me within 25 minutes. My tire blew on Sheikh Zayed Road and I was panicking. They arrived fast and handled it professionally." },
-      { name: "Fatima", area: "Al Nahda", quote: "I ran out of fuel late at night. Battery Store came with petrol in 20 minutes. Super fast and affordable!" },
+      { name: "Ahmad", area: "Downtown", quote: "Battery Near Me helped me within 25 minutes. My tire blew on Sheikh Zayed Road and I was panicking. They arrived fast and handled it professionally." },
+      { name: "Fatima", area: "Al Nahda", quote: "I ran out of fuel late at night. Battery Near Me came with petrol in 20 minutes. Super fast and affordable!" },
       { name: "Hassan", area: "Downtown Dubai", quote: "They replaced my dead car battery on the spot. No extra charges and the technician was very polite." },
     ],
     showBrands: true,
@@ -718,11 +718,11 @@ const services: Service[] = [
     description:
       "Professional car towing and recovery for accidents, breakdowns, or vehicles stuck off-road.",
     intro:
-      "Battery Store UAE provides efficient and expert towing and roadside assistance services. Our committed team is available around the clock to ensure you receive hassle-free help whenever you need it.",
+      "Battery Near Me UAE provides efficient and expert towing and roadside assistance services. Our committed team is available around the clock to ensure you receive hassle-free help whenever you need it.",
     introSection: {
-      title: "About Battery Store's Tow Truck Service in Dubai",
+      title: "About Battery Near Me's Tow Truck Service in Dubai",
       paragraph:
-        "Battery Store is the one-stop service provider of emergency tow truck Dubai and roadside assistance in the United Arab Emirates. We provide quick, smooth, and professional car towing services. Regardless of whether your battery is dead, your tyre is flat, or you have met with an accident, or are stuck somewhere. Our mobile services are ready 24/7. When you need support, we provide a reliable source.",
+        "Battery Near Me is the one-stop service provider of emergency tow truck Dubai and roadside assistance in the United Arab Emirates. We provide quick, smooth, and professional car towing services. Regardless of whether your battery is dead, your tyre is flat, or you have met with an accident, or are stuck somewhere. Our mobile services are ready 24/7. When you need support, we provide a reliable source.",
     },
     whyChooseUsTitle: "Why Choose Our Tow Truck Dubai Service?",
     whyChooseUs: [
@@ -735,7 +735,7 @@ const services: Service[] = [
     serviceHighlights: {
       title: "Our Comprehensive Tow Truck Dubai Services",
       items: [
-        { icon: "truck", title: "Standard Tow Truck Services", description: "Our core service: professional towing either on flatbed or wheel-lift. Need towing services in Dubai, just because of a mechanical failure or a small disaster? Our tow truck Dubai units will provide safe transport to the location of your choice, be it a garage, your home, or the Battery Store workshop." },
+        { icon: "truck", title: "Standard Tow Truck Services", description: "Our core service: professional towing either on flatbed or wheel-lift. Need towing services in Dubai, just because of a mechanical failure or a small disaster? Our tow truck Dubai units will provide safe transport to the location of your choice, be it a garage, your home, or the Battery Near Me workshop." },
         { icon: "clock", title: "Emergency Roadside Assistance", description: "We come to you, wherever you are in Dubai, for services like: flat tyre replacement, battery jumpstart or replacement, emergency fuel delivery, car lockout help, and pull out from sand, basements, or off-road spots." },
         { icon: "car", title: "Sports & Luxury Car Towing", description: "Driving a high-end vehicle? Our technicians and equipment are specially equipped to handle low-clearance or sensitive models carefully, keeping your vehicle scratch-free." },
         { icon: "location", title: "Sand & Desert Recovery", description: "Dubai's roads often include sandy areas and off-road paths. Our desert recovery trucks are specially prepared and certified to tow vehicles stuck in sand." },
@@ -767,7 +767,7 @@ const services: Service[] = [
     },
     whyPartner: {
       title: "Customer First: Quality & Trust",
-      intro: "Here's why drivers across Dubai keep calling Battery Store back:",
+      intro: "Here's why drivers across Dubai keep calling Battery Near Me back:",
       points: [
         "100% Transparent Costing – You pay what we quote—no hidden charges.",
         "Satisfaction Guarantee – If you're unsatisfied with coverage, we'll return without additional charge.",
@@ -788,7 +788,7 @@ const services: Service[] = [
     },
     beyondJumpstart: {
       title: "Book a Tow Truck Dubai Service Today",
-      intro: "No more delays or unsafe handling services — just pick up the phone and call Battery Store Dubai for a fast, trusty tow truck across the city and beyond.",
+      intro: "No more delays or unsafe handling services — just pick up the phone and call Battery Near Me Dubai for a fast, trusty tow truck across the city and beyond.",
       services: [
         "Affordable rates, reliable equipment, and good support, every time you call.",
         "Call or WhatsApp us and get help where and when you need it.",
@@ -838,11 +838,11 @@ const services: Service[] = [
   {
     slug: "car-recovery-dubai",
     heroImage: "/images/about/car-recovery.png",
-    title: "24/7 Car Recovery Services in Dubai in Less Than 45 Minutes with Battery Store",
+    title: "24/7 Car Recovery Services in Dubai in Less Than 45 Minutes with Battery Near Me",
     description:
       "Dedicated car recovery service across Dubai for breakdowns, collisions, and stuck vehicles.",
     intro:
-      "You might want to have a reliable car recovery in Dubai, and that is where we, Battery Store Dubai, come in. We will help you with our available experts and capabilities on the road to provide the best assistance on how to get your car out of the jam. If you find your stuck in the middle of nowhere, or you are a victim of a flat tyre, or other road accidents, our team of experts is on the ground 24/7 to restore you to the driving seat, in less time to stay safe.\n\nWe are devoted to delivering immediate assistance, instructional assistance by stage on the phone, and recovery assistance wherever you reside. When you have the Battery Store by your side, you are assured of a calm repose with the knowledge that you can be readily assisted by an expert at any place in Dubai.",
+      "You might want to have a reliable car recovery in Dubai, and that is where we, Battery Near Me Dubai, come in. We will help you with our available experts and capabilities on the road to provide the best assistance on how to get your car out of the jam. If you find your stuck in the middle of nowhere, or you are a victim of a flat tyre, or other road accidents, our team of experts is on the ground 24/7 to restore you to the driving seat, in less time to stay safe.\n\nWe are devoted to delivering immediate assistance, instructional assistance by stage on the phone, and recovery assistance wherever you reside. When you have the Battery Near Me by your side, you are assured of a calm repose with the knowledge that you can be readily assisted by an expert at any place in Dubai.",
     whyEssential: {
       title: "Key Benefits of Our Car Recovery Service",
       intro: "",
@@ -854,8 +854,8 @@ const services: Service[] = [
         "Trusted by Many: Rated highly by Dubai drivers for reliability and professionalism.",
       ],
     },
-    whyChooseUsTitle: "Why Choose Battery Store for Car Recovery in Dubai?",
-    whyChooseUsIntro: "Battery Store stands out with:",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Car Recovery in Dubai?",
+    whyChooseUsIntro: "Battery Near Me stands out with:",
     whyChooseUs: [
       "Rapid Response (Typically < 45 minutes)",
       "Experienced, Certified Operators",
@@ -868,7 +868,7 @@ const services: Service[] = [
       title: "How Can We Assist You?",
       intro: "Our Car Recovery Dubai services are designed to handle all vehicle emergencies professionally and efficiently:",
       items: [
-        { icon: "truck", title: "Emergency Towing", description: "We tow your vehicle safely to your preferred location—home, workshop, or Battery Store center—using flatbed or wheel-lift trucks." },
+        { icon: "truck", title: "Emergency Towing", description: "We tow your vehicle safely to your preferred location—home, workshop, or Battery Near Me center—using flatbed or wheel-lift trucks." },
         { icon: "wrench", title: "Roadside Support", description: "From flat tyres to jumpstarts and battery replacements, we help you on the spot whenever possible." },
         { icon: "car", title: "Breakdown Rescue", description: "If your car fails due to engine, alternator, or fuel issues, we offer comprehensive recovery and diagnostic assistance." },
         { icon: "building", title: "Recovery from Difficult Spots", description: "Stuck in sand or in narrow parking? Our recovery team extracts vehicles safely from basements, dunes, or tight spots." },
@@ -900,8 +900,8 @@ const services: Service[] = [
       ],
     },
     testimonials: [
-      { name: "Rehman", area: "Dubai Marina driver", quote: "My car battery kept draining. Battery Store tested the alternator and replaced the regulator on-site. My car is back to normal. Highly recommended!" },
-      { name: "Sarah", area: "Dubai Marina", quote: "Battery Store came swiftly when my car overheated near Sheikh Zayed Road. Quick recovery and no damage. Highly recommend!" },
+      { name: "Rehman", area: "Dubai Marina driver", quote: "My car battery kept draining. Battery Near Me tested the alternator and replaced the regulator on-site. My car is back to normal. Highly recommended!" },
+      { name: "Sarah", area: "Dubai Marina", quote: "Battery Near Me came swiftly when my car overheated near Sheikh Zayed Road. Quick recovery and no damage. Highly recommend!" },
       { name: "Ahmed", area: "Business Bay", quote: "I was stuck downtown at night with a flat tyre. They handled everything in under 40 minutes. Excellent support." },
     ],
     showBrands: true,
@@ -936,7 +936,7 @@ const services: Service[] = [
     description:
       "Buy a brand-new genuine car battery in Dubai and get it installed at your doorstep in 20–30 minutes. Amaron, Varta, Bosch & more.",
     intro:
-      "Looking to buy a new car battery in Dubai? Battery Store delivers and fits genuine Amaron, Varta, Bosch, Dynex, and Max batteries straight to your location — home, office, or roadside — within 20–30 minutes.\n\nEvery new battery comes with a full manufacturer warranty of up to 24 months and free on-site installation. No hidden fees, no hassle. Just a fresh battery and you're back on the road.",
+      "Looking to buy a new car battery in Dubai? Battery Near Me delivers and fits genuine Amaron, Varta, Bosch, ACDelco, Energizer, and Solite batteries straight to your location — home, office, or roadside — within 20–30 minutes.\n\nEvery new battery comes with a full manufacturer warranty of up to 24 months and free on-site installation. No hidden fees, no hassle. Just a fresh battery and you're back on the road.",
     introSection: {
       title: "The Easiest Way to Get a New Battery in Dubai",
       paragraph:
@@ -964,7 +964,7 @@ const services: Service[] = [
       closing: "A new battery is cheaper than a breakdown — and cheaper than towing fees.",
     },
     features: [
-      "Genuine Amaron, Varta, Bosch, Dynex, and Max batteries in stock",
+      "Genuine Amaron, Varta, Bosch, ACDelco, Energizer, and Solite batteries in stock",
       "Free delivery and on-site installation across Dubai",
       "Up to 24-month manufacturer warranty with 1 free replacement",
       "Free electrical system health check with every new battery",
@@ -992,7 +992,7 @@ const services: Service[] = [
     serviceHighlights: {
       title: "What's Included With Every New Battery",
       items: [
-        { icon: "battery", title: "Genuine Brand Battery", description: "Only OEM-grade Amaron, Varta, Bosch, Dynex, and Max batteries — no clones or refurbished units." },
+        { icon: "battery", title: "Genuine Brand Battery", description: "Only OEM-grade Amaron, Varta, Bosch, ACDelco, Energizer, and Solite batteries — no clones or refurbished units." },
         { icon: "wrench", title: "Professional Installation", description: "Certified technician fits the battery correctly, resets the BMS if required, and checks terminal connections." },
         { icon: "clock", title: "20–30 Min Delivery", description: "We reach your location across Dubai in 20–30 minutes, any time of day or night." },
         { icon: "building", title: "Warranty Card Issued", description: "You receive a physical warranty card on the spot — valid for up to 24 months with 1 free replacement." },
@@ -1007,14 +1007,14 @@ const services: Service[] = [
       { icon: "building", title: "Warranty Duration", description: "12, 18, or 24-month warranty options are available at different price points." },
     ],
     pricing: [
-      { item: "Standard sedan battery (Amaron / Dynex)", price: "AED 350–550" },
+      { item: "Standard sedan battery (Amaron / ACDelco)", price: "AED 350–550" },
       { item: "SUV / premium battery (Varta / Bosch)", price: "AED 550–850" },
       { item: "Luxury vehicle battery (BMW / Mercedes)", price: "AED 750–1,200" },
       { item: "Delivery & installation", price: "FREE" },
       { item: "BMS reset (if required)", price: "AED 50" },
     ],
     pricingNote: "All prices include VAT. Final quote confirmed before work begins.",
-    whyChooseUsTitle: "Why Buy Your New Battery From Battery Store?",
+    whyChooseUsTitle: "Why Buy Your New Battery From Battery Near Me?",
     whyChooseUsIntro: "We're Dubai's most trusted on-site battery supplier:",
     whyChooseUs: [
       "20–30 minute delivery across all Dubai areas",
@@ -1026,7 +1026,7 @@ const services: Service[] = [
     ],
     testimonials: [
       { name: "Khalid", area: "Jumeirah", quote: "Ordered a new Varta battery online at midnight. Technician arrived in 25 minutes and installed it perfectly. Incredible service!" },
-      { name: "Priya", area: "Dubai Marina", quote: "My BMW needed a specific battery. Battery Store had it in stock and reset the BMS on-site. Very professional." },
+      { name: "Priya", area: "Dubai Marina", quote: "My BMW needed a specific battery. Battery Near Me had it in stock and reset the BMS on-site. Very professional." },
       { name: "Omar", area: "Business Bay", quote: "Cheapest genuine Amaron I found in Dubai with free installation. Couldn't ask for more." },
     ],
     showBrands: true,
@@ -1046,7 +1046,7 @@ const services: Service[] = [
     description:
       "Professional car battery change service in Dubai. Old battery swapped for a new genuine unit at your location in 20–30 minutes.",
     intro:
-      "Need to change your car battery in Dubai? Battery Store makes it effortless. Our certified technicians come to you — wherever you are — swap out the old battery for a certified genuine replacement, and have you back on the road in 20–30 minutes.\n\nWhether your battery is completely dead or just ageing, we handle the full change on-site with no workshop visit needed. Available 24/7 across all Dubai areas.",
+      "Need to change your car battery in Dubai? Battery Near Me makes it effortless. Our certified technicians come to you — wherever you are — swap out the old battery for a certified genuine replacement, and have you back on the road in 20–30 minutes.\n\nWhether your battery is completely dead or just ageing, we handle the full change on-site with no workshop visit needed. Available 24/7 across all Dubai areas.",
     introSection: {
       title: "Same-Day Car Battery Change, Anywhere in Dubai",
       paragraph:
@@ -1075,7 +1075,7 @@ const services: Service[] = [
       closing: "Act before it dies completely — a timely change is always cheaper than emergency recovery.",
     },
     features: [
-      "Complete battery change with genuine Amaron, Varta, Bosch, Dynex, or Max units",
+      "Complete battery change with genuine Amaron, Varta, Bosch, ACDelco, Energizer, or Solite units",
       "On-site service — no towing, no workshop visit",
       "Free alternator and charging system check with every change",
       "Up to 24-month warranty with 1 free replacement",
@@ -1118,14 +1118,14 @@ const services: Service[] = [
       { icon: "clock", title: "Time of Service", description: "Standard rates apply 24/7 — no premium for late-night or weekend calls." },
     ],
     pricing: [
-      { item: "Economy battery change (Dynex / Max)", price: "AED 299–400" },
+      { item: "Economy battery change (ACDelco / Solite)", price: "AED 299–400" },
       { item: "Mid-range battery change (Amaron / Varta)", price: "AED 400–600" },
       { item: "Premium battery change (Bosch / Varta AGM)", price: "AED 600–1,000" },
       { item: "Luxury vehicle surcharge", price: "+AED 100" },
       { item: "Delivery & on-site installation", price: "FREE" },
     ],
     pricingNote: "Prices include VAT. Quote confirmed before work begins — no hidden fees.",
-    whyChooseUsTitle: "Why Choose Battery Store for Your Battery Change?",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Your Battery Change?",
     whyChooseUsIntro: "Dubai drivers trust us because:",
     whyChooseUs: [
       "Arrive in 20–30 minutes anywhere in Dubai",
@@ -1136,7 +1136,7 @@ const services: Service[] = [
       "24/7 service with no extra charge for nights or weekends",
     ],
     testimonials: [
-      { name: "Ahmed", area: "Al Barsha", quote: "My car wouldn't start in the morning. Battery Store arrived in 22 minutes and changed the battery on my driveway. Amazing!" },
+      { name: "Ahmed", area: "Al Barsha", quote: "My car wouldn't start in the morning. Battery Near Me arrived in 22 minutes and changed the battery on my driveway. Amazing!" },
       { name: "Sara", area: "Jumeirah Lakes Towers", quote: "They changed my Corolla battery in the parking garage at my office. Quick, tidy, and great value." },
       { name: "Faisal", area: "Dubai Silicon Oasis", quote: "Changed a Bosch battery in my Land Cruiser. Technician also checked the alternator — very thorough and professional." },
     ],
@@ -1145,7 +1145,7 @@ const services: Service[] = [
     faqs: [
       { q: "How long does a battery change take on-site?", a: "The physical swap takes 10–15 minutes. Total time including diagnostics is around 20–30 minutes." },
       { q: "Do I need to come to a workshop?", a: "No — we come to you at home, office, mall parking, or roadside anywhere in Dubai." },
-      { q: "What brands do you carry for battery changes?", a: "Amaron, Varta, Bosch, Dynex, and Max Gold — all genuine with manufacturer warranty." },
+      { q: "What brands do you carry for battery changes?", a: "Amaron, Varta, Bosch, ACDelco, and Energizer — all genuine with manufacturer warranty." },
       { q: "Is the old battery taken away?", a: "Yes, we collect and recycle the old battery at no extra charge, in line with UAE environmental regulations." },
       { q: "Do you change batteries for electric or hybrid cars?", a: "We service the 12V auxiliary battery in hybrids and EVs. For traction battery issues, please contact us for a specialist referral." },
     ],

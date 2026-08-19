@@ -53,11 +53,11 @@ const batteryBrands: BatteryBrand[] = [
     description:
       "Amaron batteries deliver zero-maintenance, long-lasting starting power trusted by drivers across the UAE.",
     intro:
-      "Looking for a reliable Amaron battery replacement in Dubai? Amaron batteries are known for zero-maintenance design and consistent starting power, making them a popular choice for sedans, SUVs, and daily commuters across the UAE.\n\nBattery Store delivers and fits genuine Amaron batteries at your home, office, or roadside location — fast, on-site, and backed by full warranty.",
+      "Looking for a reliable Amaron battery replacement in Dubai? Amaron batteries are known for zero-maintenance design and consistent starting power, making them a popular choice for sedans, SUVs, and daily commuters across the UAE.\n\nBattery Near Me delivers and fits genuine Amaron batteries at your home, office, or roadside location — fast, on-site, and backed by full warranty.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Amaron Battery Replacement?",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Amaron Battery Replacement?",
     whyChooseUsIntro: "Here's why drivers across Dubai trust us for genuine Amaron battery fitment:",
     whyChooseUs: [
       "100% genuine Amaron batteries with full manufacturer warranty",
@@ -101,11 +101,11 @@ const batteryBrands: BatteryBrand[] = [
     description:
       "Bosch batteries combine German engineering with high cranking power for reliable starts in any weather.",
     intro:
-      "Need a Bosch battery replacement in Dubai? Bosch batteries are engineered in Germany for high cranking power and dependable starts, even in extreme heat — a top choice for both everyday cars and performance vehicles.\n\nBattery Store fits genuine Bosch batteries at your location across Dubai, with free diagnostics and same-day service.",
+      "Need a Bosch battery replacement in Dubai? Bosch batteries are engineered in Germany for high cranking power and dependable starts, even in extreme heat — a top choice for both everyday cars and performance vehicles.\n\nBattery Near Me fits genuine Bosch batteries at your location across Dubai, with free diagnostics and same-day service.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Bosch Battery Replacement?",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Bosch Battery Replacement?",
     whyChooseUsIntro: "Here's what sets our Bosch battery service apart:",
     whyChooseUs: [
       "Genuine Bosch batteries with full manufacturer warranty",
@@ -115,7 +115,7 @@ const batteryBrands: BatteryBrand[] = [
       "30-45 minute average response time across Dubai",
       "Transparent pricing with no hidden charges",
     ],
-    whyChooseUsClosing: "German engineering, fitted at your doorstep — that's the Battery Store promise.",
+    whyChooseUsClosing: "German engineering, fitted at your doorstep — that's the Battery Near Me promise.",
     signs: {
       title: "Common Signs Your Bosch Battery Needs Replacement",
       intro: "Don't wait for a complete breakdown — look out for:",
@@ -130,7 +130,7 @@ const batteryBrands: BatteryBrand[] = [
     testimonials: [
       { name: "Daniel", area: "Dubai Marina", quote: "Bosch battery fitted within the hour. Technician was knowledgeable and the price was upfront with no surprises." },
       { name: "Aisha", area: "Mirdif", quote: "Reliable service — my car starts perfectly even in summer heat now." },
-      { name: "Imran", area: "Al Warqa", quote: "Called Battery Store after my car wouldn't start. Bosch battery fitted in 35 minutes, no issues since." },
+      { name: "Imran", area: "Al Warqa", quote: "Called Battery Near Me after my car wouldn't start. Bosch battery fitted in 35 minutes, no issues since." },
     ],
     faqs: [
       { q: "Are your Bosch batteries genuine?", a: "Yes, 100% genuine Bosch batteries with full manufacturer warranty." },
@@ -149,11 +149,11 @@ const batteryBrands: BatteryBrand[] = [
     description:
       "Varta batteries offer premium AGM and calcium technology for vehicles with high electrical demand.",
     intro:
-      "Need a Varta battery replacement in Dubai? Varta batteries use premium AGM and calcium technology, built for vehicles with high electrical demand — including Start-Stop systems and cars loaded with electronics.\n\nBattery Store delivers and fits genuine Varta batteries at your location, 24/7, with free diagnostics before every replacement.",
+      "Need a Varta battery replacement in Dubai? Varta batteries use premium AGM and calcium technology, built for vehicles with high electrical demand — including Start-Stop systems and cars loaded with electronics.\n\nBattery Near Me delivers and fits genuine Varta batteries at your location, 24/7, with free diagnostics before every replacement.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Varta Battery Replacement?",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Varta Battery Replacement?",
     whyChooseUsIntro: "Here's why Varta owners across Dubai choose us:",
     whyChooseUs: [
       "Genuine Varta AGM and calcium batteries with full warranty",
@@ -176,9 +176,9 @@ const batteryBrands: BatteryBrand[] = [
       ],
     },
     testimonials: [
-      { name: "Hamad", area: "Business Bay", quote: "My car's Start-Stop kept failing. Battery Store diagnosed it as the battery and fitted a genuine Varta AGM on the spot." },
+      { name: "Hamad", area: "Business Bay", quote: "My car's Start-Stop kept failing. Battery Near Me diagnosed it as the battery and fitted a genuine Varta AGM on the spot." },
       { name: "Lina", area: "Downtown Dubai", quote: "Professional service, genuine Varta battery, and the technician explained everything clearly." },
-      { name: "Khalifa", area: "Dubai Hills", quote: "My SUV is loaded with electronics — Varta AGM was the right call and Battery Store fitted it same day." },
+      { name: "Khalifa", area: "Dubai Hills", quote: "My SUV is loaded with electronics — Varta AGM was the right call and Battery Near Me fitted it same day." },
     ],
     faqs: [
       { q: "Are your Varta batteries genuine?", a: "Yes, 100% genuine Varta batteries including AGM and calcium technology, with full warranty." },
@@ -191,20 +191,20 @@ const batteryBrands: BatteryBrand[] = [
     showAreas: true,
   },
   {
-    slug: "dynex",
-    image: "/images/battery-brands/dynex.jpg",
-    title: "Dynex Battery",
+    slug: "acdelco",
+    image: "/images/battery-brands/acdelco.png",
+    title: "ACDelco Battery",
     description:
-      "Dynex batteries provide dependable everyday performance at a competitive price point.",
+      "ACDelco batteries deliver dependable everyday performance at a competitive price point.",
     intro:
-      "Need a Dynex battery replacement in Dubai? Dynex batteries offer dependable everyday performance at a competitive price — a smart choice for drivers who want reliability without overspending.\n\nBattery Store delivers and fits genuine Dynex batteries at your location, 24/7, with free diagnostics before every replacement.",
+      "Need an ACDelco battery replacement in Dubai? ACDelco batteries offer dependable everyday performance at a competitive price — a smart choice for drivers who want reliability without overspending.\n\nBattery Near Me delivers and fits genuine ACDelco batteries at your location, 24/7, with free diagnostics before every replacement.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Dynex Battery Replacement?",
+    whyChooseUsTitle: "Why Choose Battery Near Me for ACDelco Battery Replacement?",
     whyChooseUsIntro: "Here's why budget-conscious drivers across Dubai choose us:",
     whyChooseUs: [
-      "Genuine Dynex batteries with full manufacturer warranty",
+      "Genuine ACDelco batteries with full manufacturer warranty",
       "Dependable everyday performance at a competitive price",
       "Free on-site delivery and installation, 24/7",
       "Free battery and alternator diagnostics before replacement",
@@ -213,7 +213,7 @@ const batteryBrands: BatteryBrand[] = [
     ],
     whyChooseUsClosing: "Reliable power without the premium price tag — fitted at your doorstep.",
     signs: {
-      title: "Common Signs Your Dynex Battery Needs Replacement",
+      title: "Common Signs Your ACDelco Battery Needs Replacement",
       intro: "Watch out for these warning signs before you're left stranded:",
       list: [
         "Slow or struggling engine crank on startup",
@@ -224,35 +224,35 @@ const batteryBrands: BatteryBrand[] = [
       ],
     },
     testimonials: [
-      { name: "Karim", area: "Al Nahda", quote: "Affordable Dynex battery, fitted quickly. Great option if you don't want to overspend but still want reliability." },
+      { name: "Karim", area: "Al Nahda", quote: "Affordable ACDelco battery, fitted quickly. Great option if you don't want to overspend but still want reliability." },
       { name: "Noor", area: "Deira", quote: "Good value for money and the technician was polite and fast." },
-      { name: "Bilal", area: "Al Mizhar", quote: "Needed a budget-friendly replacement fast. Dynex battery fitted within 30 minutes, no complaints." },
+      { name: "Bilal", area: "Al Mizhar", quote: "Needed a budget-friendly replacement fast. ACDelco battery fitted within 30 minutes, no complaints." },
     ],
     faqs: [
-      { q: "Are your Dynex batteries genuine?", a: "Yes, 100% genuine Dynex batteries with full manufacturer warranty." },
-      { q: "Is Dynex a budget option?", a: "Yes, Dynex offers dependable performance at a more competitive price point." },
-      { q: "Do you offer warranty on Dynex batteries?", a: "Yes, 12-18 month warranty depending on the model." },
-      { q: "Can you fit a Dynex battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
-      { q: "Do you deliver Dynex batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
-      { q: "What happens to my old Dynex battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
+      { q: "Are your ACDelco batteries genuine?", a: "Yes, 100% genuine ACDelco batteries with full manufacturer warranty." },
+      { q: "Is ACDelco a budget option?", a: "Yes, ACDelco offers dependable performance at a more competitive price point." },
+      { q: "Do you offer warranty on ACDelco batteries?", a: "Yes, 12-18 month warranty depending on the model." },
+      { q: "Can you fit an ACDelco battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
+      { q: "Do you deliver ACDelco batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
+      { q: "What happens to my old ACDelco battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
     ],
     showAreas: true,
   },
   {
-    slug: "max-gold",
-    image: "/images/battery-brands/max-gold.jpg",
-    title: "Max Gold Battery",
+    slug: "energizer",
+    image: "/images/battery-brands/energizer.png",
+    title: "Energizer Battery",
     description:
-      "Max Gold batteries are built for durability and consistent performance in extreme temperatures.",
+      "Energizer batteries are built for durability and consistent performance in extreme temperatures.",
     intro:
-      "Need a Max Gold battery replacement in Dubai? Max Gold batteries are built for durability and consistent performance in extreme temperatures — ideal for Dubai's harsh summer heat.\n\nBattery Store delivers and fits genuine Max Gold batteries at your location, 24/7, with free diagnostics before every replacement.",
+      "Need an Energizer battery replacement in Dubai? Energizer batteries are built for durability and consistent performance in extreme temperatures — ideal for Dubai's harsh summer heat.\n\nBattery Near Me delivers and fits genuine Energizer batteries at your location, 24/7, with free diagnostics before every replacement.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Max Gold Battery Replacement?",
-    whyChooseUsIntro: "Here's why drivers across Dubai trust us for Max Gold fitment:",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Energizer Battery Replacement?",
+    whyChooseUsIntro: "Here's why drivers across Dubai trust us for Energizer fitment:",
     whyChooseUs: [
-      "Genuine Max Gold batteries with full manufacturer warranty",
+      "Genuine Energizer batteries with full manufacturer warranty",
       "Built for durability in extreme heat conditions",
       "Free on-site delivery and installation, 24/7",
       "Free battery and alternator diagnostics before replacement",
@@ -261,7 +261,7 @@ const batteryBrands: BatteryBrand[] = [
     ],
     whyChooseUsClosing: "Built tough for Dubai's heat, fitted fast at your location.",
     signs: {
-      title: "Common Signs Your Max Gold Battery Needs Replacement",
+      title: "Common Signs Your Energizer Battery Needs Replacement",
       intro: "Watch out for these warning signs before you're left stranded:",
       list: [
         "Slow or struggling engine crank on startup",
@@ -272,35 +272,35 @@ const batteryBrands: BatteryBrand[] = [
       ],
     },
     testimonials: [
-      { name: "Rashid", area: "Al Quoz", quote: "Max Gold battery has held up well through the summer. Fast installation and fair pricing." },
-      { name: "Sana", area: "Al Barsha", quote: "Technician explained why Max Gold suited my car and fitted it within 30 minutes." },
-      { name: "Omar", area: "Jebel Ali", quote: "Max Gold battery still going strong after the peak summer heat. Good advice from the technician on which model to pick." },
+      { name: "Rashid", area: "Al Quoz", quote: "Energizer battery has held up well through the summer. Fast installation and fair pricing." },
+      { name: "Sana", area: "Al Barsha", quote: "Technician explained why Energizer suited my car and fitted it within 30 minutes." },
+      { name: "Omar", area: "Jebel Ali", quote: "Energizer battery still going strong after the peak summer heat. Good advice from the technician on which model to pick." },
     ],
     faqs: [
-      { q: "Are your Max Gold batteries genuine?", a: "Yes, 100% genuine Max Gold batteries with full manufacturer warranty." },
-      { q: "Is Max Gold good for hot climates?", a: "Yes, it's built specifically for durability and performance in extreme temperatures." },
-      { q: "Do you offer warranty on Max Gold batteries?", a: "Yes, 12-24 month warranty depending on the model." },
-      { q: "Can you fit a Max Gold battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
-      { q: "Do you deliver Max Gold batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
-      { q: "What happens to my old Max Gold battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
+      { q: "Are your Energizer batteries genuine?", a: "Yes, 100% genuine Energizer batteries with full manufacturer warranty." },
+      { q: "Is Energizer good for hot climates?", a: "Yes, it's built specifically for durability and performance in extreme temperatures." },
+      { q: "Do you offer warranty on Energizer batteries?", a: "Yes, 12-24 month warranty depending on the model." },
+      { q: "Can you fit an Energizer battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
+      { q: "Do you deliver Energizer batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
+      { q: "What happens to my old Energizer battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
     ],
     showAreas: true,
   },
   {
-    slug: "max-part",
-    image: "/images/battery-brands/max-part.jpg",
-    title: "Max Part Battery",
+    slug: "solite",
+    image: "/images/battery-brands/solite.jpg",
+    title: "Solite Battery",
     description:
-      "Max Part batteries deliver reliable starting power with a full manufacturer warranty.",
+      "Solite batteries deliver reliable starting power with a full manufacturer warranty.",
     intro:
-      "Need a Max Part battery replacement in Dubai? Max Part batteries deliver reliable starting power backed by a full manufacturer warranty — a solid everyday choice for UAE drivers.\n\nBattery Store delivers and fits genuine Max Part batteries at your location, 24/7, with free diagnostics before every replacement.",
+      "Need a Solite battery replacement in Dubai? Solite batteries deliver reliable starting power backed by a full manufacturer warranty — a solid everyday choice for UAE drivers.\n\nBattery Near Me delivers and fits genuine Solite batteries at your location, 24/7, with free diagnostics before every replacement.",
     stats,
     serviceHighlights,
     getStarted,
-    whyChooseUsTitle: "Why Choose Battery Store for Max Part Battery Replacement?",
-    whyChooseUsIntro: "Here's why drivers across Dubai trust us for Max Part fitment:",
+    whyChooseUsTitle: "Why Choose Battery Near Me for Solite Battery Replacement?",
+    whyChooseUsIntro: "Here's why drivers across Dubai trust us for Solite fitment:",
     whyChooseUs: [
-      "Genuine Max Part batteries with full manufacturer warranty",
+      "Genuine Solite batteries with full manufacturer warranty",
       "Reliable starting power for everyday driving",
       "Free on-site delivery and installation, 24/7",
       "Free battery and alternator diagnostics before replacement",
@@ -309,7 +309,7 @@ const batteryBrands: BatteryBrand[] = [
     ],
     whyChooseUsClosing: "Reliable starts, backed by full warranty, fitted at your doorstep.",
     signs: {
-      title: "Common Signs Your Max Part Battery Needs Replacement",
+      title: "Common Signs Your Solite Battery Needs Replacement",
       intro: "Watch out for these warning signs before you're left stranded:",
       list: [
         "Slow or struggling engine crank on startup",
@@ -320,17 +320,17 @@ const batteryBrands: BatteryBrand[] = [
       ],
     },
     testimonials: [
-      { name: "Tariq", area: "Jumeirah Village Circle", quote: "Max Part battery fitted same day. Reliable so far and the warranty gives peace of mind." },
+      { name: "Tariq", area: "Jumeirah Village Circle", quote: "Solite battery fitted same day. Reliable so far and the warranty gives peace of mind." },
       { name: "Huda", area: "Al Karama", quote: "Good honest service, fair price, and quick installation." },
-      { name: "Salim", area: "International City", quote: "Booked online, technician arrived within 40 minutes and fitted a Max Part battery at a fair price." },
+      { name: "Salim", area: "International City", quote: "Booked online, technician arrived within 40 minutes and fitted a Solite battery at a fair price." },
     ],
     faqs: [
-      { q: "Are your Max Part batteries genuine?", a: "Yes, 100% genuine Max Part batteries with full manufacturer warranty." },
-      { q: "Do you offer warranty on Max Part batteries?", a: "Yes, 12-18 month warranty depending on the model." },
-      { q: "Can you fit a Max Part battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
+      { q: "Are your Solite batteries genuine?", a: "Yes, 100% genuine Solite batteries with full manufacturer warranty." },
+      { q: "Do you offer warranty on Solite batteries?", a: "Yes, 12-18 month warranty depending on the model." },
+      { q: "Can you fit a Solite battery for any car model?", a: "Yes, we stock sizes for sedans, SUVs, and most popular models." },
       { q: "How fast is installation?", a: "Most replacements take under 15 minutes once the technician arrives." },
-      { q: "Do you deliver Max Part batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
-      { q: "What happens to my old Max Part battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
+      { q: "Do you deliver Solite batteries to my home or office?", a: "Yes, we deliver and fit at your location, 24/7, anywhere in Dubai." },
+      { q: "What happens to my old Solite battery?", a: "We collect and recycle it free of charge per UAE environmental standards." },
     ],
     showAreas: true,
   },

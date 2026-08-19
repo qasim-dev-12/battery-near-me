@@ -5,7 +5,7 @@ Source: 20 reference screenshots (batteryzoneuae.com) reviewed, content extracte
 ## Header (`src/components/Header/menuData.tsx`, `index.tsx`)
 - Menu: Home, Services (dropdown), Battery Brands (dropdown), Areas, Warranty, Blog, Contact. No Car Brands, no About, no Pages.
 - Services dropdown: Car Battery Replacement, Battery Diagnostics & Jumpstart, Emergency Fuel Delivery, Flat Tyre Replacement, Flat Tyre Repair, Tyre Replacement, Tyre Repair, Roadside Assistance, Car Towing & Recovery, Alternator & Dynamo Repair, Car Recovery Dubai.
-- Battery Brands dropdown + `src/data/batteryBrands.ts`: Amaron, Bosch, Varta, Dynex, Max Gold, Max Part (replace old 6).
+- Battery Brands dropdown + `src/data/batteryBrands.ts`: Amaron, Bosch, Varta, ACDelco, Energizer, Solite (replace old 6).
 - Replace Sign In/Sign Up buttons with WhatsApp button (green) + Call Now button (blue), `wa.me` / `tel:` links.
 
 ## New pages

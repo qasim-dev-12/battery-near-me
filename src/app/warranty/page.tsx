@@ -5,8 +5,8 @@ import { BrandImage, Section, SplitContent, DotList } from "@/components/Service
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Warranty | Battery Store",
-  description: "Warranty terms for batteries fitted by Battery Store.",
+  title: "Warranty | Battery Near Me",
+  description: "Warranty terms for batteries fitted by Battery Near Me.",
 };
 
 const PHONE = "+971543170355";
@@ -29,7 +29,7 @@ const covered = [
 const notCovered = [
   "Physical damage, cracks, or leakage from misuse",
   "Damage caused by an aftermarket or faulty alternator",
-  "Batteries not supplied or fitted by Battery Store",
+  "Batteries not supplied or fitted by Battery Near Me",
   "Claims made without proof of purchase or invoice",
   "Normal wear and tear beyond the warranty period",
 ];
@@ -39,7 +39,7 @@ const keepValidTips = [
   "Have your battery and alternator checked every 6 months",
   "Avoid leaving lights or accessories on when the engine is off",
   "Clean corrosion off terminals regularly",
-  "Only get repairs done by authorized Battery Store technicians",
+  "Only get repairs done by authorized Battery Near Me technicians",
 ];
 
 const claimSteps = [
@@ -50,7 +50,7 @@ const claimSteps = [
 ];
 
 const testimonials = [
-  { name: "Adel", area: "Al Barsha", quote: "Battery failed within a year and Battery Store replaced it free of charge in 20 minutes, no questions asked." },
+  { name: "Adel", area: "Al Barsha", quote: "Battery failed within a year and Battery Near Me replaced it free of charge in 20 minutes, no questions asked." },
   { name: "Nadia", area: "Mirdif", quote: "Warranty claim was simple — just showed my invoice and the technician swapped the battery on-site." },
   { name: "Salem", area: "Deira", quote: "Honest about what was covered and what wasn't. Appreciated the clear explanation." },
 ];
@@ -73,10 +73,10 @@ const WarrantyPage = () => {
             <div className="w-full px-4 md:w-7/12">
               <div className="mb-8 max-w-[570px] md:mb-0">
                 <h1 className="mb-5 text-2xl font-bold text-black dark:text-white sm:text-3xl">
-                  Battery Warranty – Battery Store Dubai
+                  Battery Warranty – Battery Near Me Dubai
                 </h1>
                 <p className="mb-4 text-base font-medium leading-relaxed text-body-color">
-                  All batteries provided by Battery Store come with 3, 6, or 12 months warranty with a one-time free replacement, depending on the battery brand you choose.
+                  All batteries provided by Battery Near Me come with 3, 6, or 12 months warranty with a one-time free replacement, depending on the battery brand you choose.
                 </p>
                 <p className="mb-4 text-base font-medium leading-relaxed text-body-color">
                   We stand behind every battery we fit — genuine products, transparent terms, and fast on-site replacement if anything goes wrong.

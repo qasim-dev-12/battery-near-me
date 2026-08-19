@@ -105,20 +105,20 @@ const menuData: Menu[] = [
       },
       {
         id: 524,
-        title: "Dynex Battery",
-        path: "/battery-brands/dynex",
+        title: "ACDelco Battery",
+        path: "/battery-brands/acdelco",
         newTab: false,
       },
       {
         id: 525,
-        title: "Max Gold Battery",
-        path: "/battery-brands/max-gold",
+        title: "Energizer Battery",
+        path: "/battery-brands/energizer",
         newTab: false,
       },
       {
         id: 526,
-        title: "Max Part Battery",
-        path: "/battery-brands/max-part",
+        title: "Solite Battery",
+        path: "/battery-brands/solite",
         newTab: false,
       },
       {

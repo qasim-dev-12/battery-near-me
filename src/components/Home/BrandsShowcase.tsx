@@ -34,7 +34,7 @@ const BrandsShowcase = () => {
           ))}
         </div>
         <p className="mt-8 text-center text-sm text-body-color">
-          All batteries provided by Battery Store come with 12, 18, or 24
+          All batteries provided by Battery Near Me come with 12, 18, or 24
           months warranty with 1 time replacement.{" "}
           <Link href="/warranty" className="text-primary">
             Terms and conditions apply.

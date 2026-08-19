@@ -1,7 +1,7 @@
 const bullets = [
   {
     bg: "bg-white ring-1 ring-black/10",
-    icon: <img src="/images/logo/logo50.png" alt="800 Speedy" className="h-6 w-6 object-contain sm:h-7 sm:w-7" />,
+    icon: <img src="/images/logo/logo50.png" alt="Battery Near Me" className="h-6 w-6 object-contain sm:h-7 sm:w-7" />,
     text: "Emergency? Get 24/7 Roadside Help Now!",
     short: "24/7 Emergency Help",
   },

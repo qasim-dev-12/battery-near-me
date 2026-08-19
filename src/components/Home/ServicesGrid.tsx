@@ -21,7 +21,7 @@ const ServicesGrid = () => {
       <div className="container">
         <SectionTitle
           title="Emergency Mobile Battery Replacement in Dubai & Roadside Services"
-          paragraph="Battery Store provides complete roadside assistance across Dubai. Our mobile units are stocked for every common emergency, not just battery replacement."
+          paragraph="Battery Near Me provides complete roadside assistance across Dubai. Our mobile units are stocked for every common emergency, not just battery replacement."
           center
         />
         <div className="grid grid-cols-1 gap-x-8 gap-y-8 md:grid-cols-2 lg:grid-cols-4">

@@ -13,7 +13,7 @@ const TrustIntro = () => {
             <p className="mb-8 text-base leading-relaxed text-body-color">
               Whether you need an emergency car battery replacement in Dubai
               at 3 AM or want to order an online car battery in Dubai with
-              same-day installation, Battery Store delivers a seamless
+              same-day installation, Battery Near Me delivers a seamless
               experience across the UAE. Over 15 years and 100,000+ batteries
               served on time.
             </p>

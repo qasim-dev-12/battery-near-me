@@ -8,7 +8,7 @@ Source: 25 screenshots of the reference site's `/car-jumpstart/` page reviewed (
 - Cost factors: location/zone (extra travel = extra cost), time of day (night/weekend/holiday surcharge), vehicle type (4x4/luxury needs special equipment), add-on diagnostics (alternator/electrical checks).
 - Pricing tiers: budget jumpstart vs. emergency/off-peak jumpstart.
 - Step process (5 steps): arrival & assessment, safety setup, jumpstart, system check, customer guidance.
-- Brands supported: reuse our own 6 battery brands (Amaron, Bosch, Varta, Dynex, Max Gold, Max Part) — do not reuse the reference site's different brand list.
+- Brands supported: reuse our own 6 battery brands (Amaron, Bosch, Varta, ACDelco, Energizer, Solite) — do not reuse the reference site's different brand list.
 - Areas served: reuse our existing `/areas` data.
 - Customer quotes: 3 short paraphrased testimonials by area.
 - FAQs (5): response time, process safety, what if car still won't start, membership requirement, night/holiday availability — already present in our data, kept.

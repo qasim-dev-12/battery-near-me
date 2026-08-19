@@ -14,7 +14,7 @@ import EmergencyCTA from "@/components/Home/EmergencyCTA";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Battery Store | Car Battery Replacement Dubai",
+  title: "Battery Near Me | Car Battery Replacement Dubai",
   description:
     "Trusted provider for car battery change in Dubai. Amaron, Varta & Bosch batteries delivered and installed in 30-45 minutes, 24/7.",
 };
@@ -51,7 +51,7 @@ export default function Home() {
           "Turn off lights, AC, and infotainment before shutting the engine",
           "Keep terminals clean and corrosion-free",
           "Avoid relying solely on short trips that prevent full charging",
-          "Schedule a free battery health test every 6 months with Battery Store",
+          "Schedule a free battery health test every 6 months with Battery Near Me",
         ]}
       />
       <BulletSection

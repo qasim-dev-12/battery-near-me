@@ -4,7 +4,7 @@ import areas from "@/data/areas";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Areas We Cover | Battery Store",
+  title: "Areas We Cover | Battery Near Me",
   description: "Mobile battery replacement and roadside services across Dubai.",
 };
 
@@ -26,7 +26,7 @@ const AreasPage = () => {
                   <div className="relative h-36 w-full">
                     <Image
                       src={`/images/areas/dubai-${(index % AREA_PHOTOS) + 1}.jpg`}
-                      alt={`Battery Store service in ${area}, Dubai`}
+                      alt={`Battery Near Me service in ${area}, Dubai`}
                       fill
                       className="object-cover"
                     />
