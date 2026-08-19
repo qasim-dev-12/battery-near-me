@@ -48,7 +48,7 @@ const stats = [
 const batteryBrands: BatteryBrand[] = [
   {
     slug: "amaron",
-    image: "/images/battery-brands/amaron.png",
+    image: "/images/battery-brands/amaron.jpg",
     title: "Amaron Battery",
     description:
       "Amaron batteries deliver zero-maintenance, long-lasting starting power trusted by drivers across the UAE.",
@@ -288,7 +288,7 @@ const batteryBrands: BatteryBrand[] = [
   },
   {
     slug: "solite",
-    image: "/images/battery-brands/solite.jpg",
+    image: "/images/battery-brands/solite.png",
     title: "Solite Battery",
     description:
       "Solite batteries deliver reliable starting power with a full manufacturer warranty.",
