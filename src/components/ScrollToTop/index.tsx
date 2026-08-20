@@ -28,14 +28,14 @@ export default function ScrollToTop() {
   }, []);
 
   return (
-    <div className="fixed right-4 bottom-24 z-99 sm:right-8 sm:bottom-8">
+    <div className="fixed right-4 bottom-16 z-99 sm:right-8 sm:bottom-8">
       {isVisible && (
         <div
           onClick={scrollToTop}
           aria-label="scroll to top"
-          className="bg-primary/80 hover:shadow-signUp flex h-10 w-10 cursor-pointer items-center justify-center rounded-md text-white shadow-md transition duration-300 ease-in-out"
+          className="bg-primary/40 hover:bg-primary/70 hover:shadow-signUp flex h-7 w-7 cursor-pointer items-center justify-center rounded-md text-white shadow-md transition duration-300 ease-in-out sm:h-10 sm:w-10"
         >
-          <span className="mt-[6px] h-3 w-3 rotate-45 border-t border-l border-white"></span>
+          <span className="mt-[4px] h-2.5 w-2.5 rotate-45 border-t border-l border-white sm:mt-[6px] sm:h-3 sm:w-3"></span>
         </div>
       )}
     </div>
