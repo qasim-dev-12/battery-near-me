@@ -24,17 +24,24 @@ const HowItWorks = () => {
           center
         />
         <div className="relative mx-auto max-w-lg">
-          <div className="absolute left-1/2 top-2 h-[calc(100%-1rem)] w-0.5 -translate-x-1/2 bg-primary/25" />
+          <div className="absolute left-6 top-2 h-[calc(100%-1rem)] w-0.5 bg-primary/25 md:left-1/2 md:-translate-x-1/2" />
           {steps.map((s, i) => (
-            <div key={s.title} className="relative flex items-center py-6">
-              <div className={i % 2 === 0 ? "w-1/2 pr-8 text-right" : "order-2 w-1/2 pl-8 text-left"}>
+            <div
+              key={s.title}
+              style={{ animationDelay: `${i * 120}ms` }}
+              className="relative flex items-center gap-4 py-5 animate-[fadeInUp_0.5s_ease_both] md:gap-0 md:py-6"
+            >
+              <span
+                style={{ animationDelay: `${i * 250}ms` }}
+                className="relative z-10 flex h-12 w-12 shrink-0 animate-[float_3s_ease-in-out_infinite] items-center justify-center rounded-full border-4 border-gray-light bg-primary text-white shadow-lg transition-transform duration-300 hover:scale-110 dark:border-bg-color-dark md:absolute md:left-1/2 md:-translate-x-1/2"
+              >
+                <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">{icons[i]}</svg>
+              </span>
+              <div className={`flex-1 text-left md:w-1/2 ${i % 2 === 0 ? "md:pr-8 md:text-right" : "md:order-2 md:pl-8 md:text-left"}`}>
                 <h3 className="mb-1 text-base font-bold text-black dark:text-white">{s.title}</h3>
                 <p className="text-sm text-body-color dark:text-body-color-dark">{s.text}</p>
               </div>
-              <span className="absolute left-1/2 z-10 flex h-12 w-12 -translate-x-1/2 items-center justify-center rounded-full border-4 border-gray-light bg-primary text-white shadow-lg dark:border-bg-color-dark">
-                <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">{icons[i]}</svg>
-              </span>
-              <div className={i % 2 === 0 ? "w-1/2" : "order-1 w-1/2"} />
+              <div className={`hidden md:block md:w-1/2 ${i % 2 === 0 ? "" : "md:order-1"}`} />
             </div>
           ))}
         </div>

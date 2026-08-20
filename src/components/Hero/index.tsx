@@ -49,6 +49,15 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap mb-5">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
+                <div className="mb-4 flex justify-center">
+                  <span className="inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold text-primary ring-1 ring-primary/30 dark:bg-primary/15">
+                    <span className="relative flex h-2 w-2">
+                      <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
+                      <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
+                    </span>
+                    Technicians Online Now — Avg. Response 20 min
+                  </span>
+                </div>
                 <h1 className="mb-5 text-2xl font-bold leading-tight text-primary sm:text-4xl sm:text-black sm:leading-tight sm:dark:text-white md:text-5xl md:leading-tight">
                   New Car Battery Replacement Dubai
                 </h1>
@@ -59,15 +68,18 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             {/* Yellow card */}
             <div className="w-full px-4">
-              <div className="mx-auto max-w-2xl rounded-3xl bg-dark px-6 py-8 ring-1 ring-stroke-dark shadow-[0_8px_40px_rgba(52,235,229,0.12)] md:px-14 md:py-14">
+              <div className="mx-auto max-w-2xl rounded-3xl bg-dark px-6 py-8 ring-1 ring-stroke-dark shadow-[0_8px_40px_rgba(52,235,229,0.12)] transition-shadow duration-700 hover:shadow-[0_8px_50px_rgba(52,235,229,0.22)] md:px-14 md:py-14">
                 <h2 className="mb-4 text-xl font-bold leading-tight text-white sm:text-3xl">
                   <span style={{fontSize:"16px"}} className="sm:hidden text-primary">Get Installation in 30 mins</span>
                   <span className="hidden sm:inline">24/7 Onsite Car Battery <span className="text-primary">Replacement</span> at your Service</span>
                 </h2>
                 <ul className="mb-5 space-y-3">
-                  {bullets.map((b) => (
+                  {bullets.map((b, i) => (
                     <li key={b.text} className="flex items-center gap-3 text-base font-medium text-white">
-                      <span className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-full sm:h-10 sm:w-10 ${b.bg}`}>
+                      <span
+                        style={{ animationDelay: `${i * 200}ms` }}
+                        className={`flex h-8 w-8 shrink-0 animate-[float_3s_ease-in-out_infinite] items-center justify-center rounded-full sm:h-10 sm:w-10 ${b.bg}`}
+                      >
                         {b.icon}
                       </span>
                       <span className="sm:hidden text-sm">{b.short}</span>
