@@ -15,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html suppressHydrationWarning lang="en">
+    <html className="dark" lang="en">
       {/*
         <head /> will contain the components returned by the nearest parent
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
@@ -23,19 +23,15 @@ export default function RootLayout({
       <head />
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${poppins.className}`}>
-        <Providers>
-          <div className="isolate">
-            <Header />
-            {children}
-            <Footer />
-          </div>
-          <HangingCTA />
-          <ScrollToTop />
-        </Providers>
+        <div className="isolate">
+          <Header />
+          {children}
+          <Footer />
+        </div>
+        <HangingCTA />
+        <ScrollToTop />
       </body>
     </html>
   );
 }
-
-import { Providers } from "./providers";
 
